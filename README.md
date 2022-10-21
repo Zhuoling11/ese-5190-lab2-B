@@ -23,5 +23,7 @@ LED | Red and Yellow
 APDS9960 | 1
 
 About the Problems in this lab
+
 Q1: we are not fimilar with how to interact with the sensor using C. May more examples can help a lot
+
 Q2 The connection of GPIO is not very stable
